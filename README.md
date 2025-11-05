@@ -1,5 +1,5 @@
 ## Hi there 👋
-I´m Sergio Junior Software Engineer | Python
+I´m Sergio Junior Software Engineer | Python | AI
 <!--
 **SergioCalderon101/SergioCalderon101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
