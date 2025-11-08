@@ -1,5 +1,8 @@
 ## Hi there 👋
-I´m Sergio Junior Software Engineer | Python | AI
+I´m Sergio , Junior Software Engineer | Python | SQL | AI
+
+
+## About Me
 <!--
 **SergioCalderon101/SergioCalderon101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
