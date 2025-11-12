@@ -40,18 +40,5 @@
 </p>
 
 
-## 📊 GitHub Stats
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=SergioCalderon101&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight"
-    alt="GitHub Stats de Sergio"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioCalderon101&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
-    alt="Top Langs de Sergio"
-    height="165"
-  />
-</p>
 
 </div>
