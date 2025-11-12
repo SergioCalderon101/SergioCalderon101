@@ -22,11 +22,10 @@
   <a href="https://www.linkedin.com/in/sergio-calderon-sanpedro/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  <a
-    href="mailto:sergioo.calderonn@gmail.com?subject=Contacto%20desde%20GitHub&body=Hola%20Sergio%2C%0A%0AMe%20gustar%C3%ADa%20contactarte%20sobre..."
-    title="Enviar correo"
-  >
+  &nbsp;&nbsp;
+  <a href="mailto:sergioo.calderonn@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+    <span style="margin-left:8px; font-size:16px; color:white;">sergioo.calderonn@gmail.com</span>
   </a>
 </p>
 
