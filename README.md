@@ -19,9 +19,10 @@ I´m Sergio , Junior Software Engineer | Python | SQL | AI
 ## 📬 Contact Me
 <p>
   <a href="https://www.linkedin.com/in/sergio-calderon-sanpedro/" title="LinkedIn – Sergio Calderón">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+    <img height="40" src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" />
   </a>
 </p>
+
 
 <!--
 **SergioCalderon101/SergioCalderon101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
