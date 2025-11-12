@@ -3,14 +3,11 @@
 ## 👋 Hi there 
 ### I’m Sergio, Junior Software Engineer | Python | SQL | AI
 
----
-
 ## 🧑‍💻 Programming Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,bash,html,css,postgres,javascript" />
 </p>
 
----
 
 ## ⚙️ Tech Stack
 <p align="center">
@@ -19,7 +16,6 @@
   <img height="40" src="https://img.shields.io/badge/Claude%20Code-000000?logo=anthropic&logoColor=white" />
 </p>
 
----
 
 ## 📬 Contact Me
 <p align="center">
@@ -28,7 +24,6 @@
   </a>
 </p>
 
----
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -44,6 +39,5 @@
   />
 </p>
 
----
 
 </div>
