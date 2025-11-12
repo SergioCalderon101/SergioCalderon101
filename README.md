@@ -23,7 +23,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <a
-    href="mailto:sergioo.calderonn@gmail.com?subject=Contacto%20desde%20GitHub&body=Hola%20Sergio,%0A%0AMe%20gustar%C3%ADa%20contactarte%20sobre..."
+    href="mailto:sergioo.calderonn@gmail.com?subject=Contacto%20desde%20GitHub&body=Hola%20Sergio%2C%0A%0AMe%20gustar%C3%ADa%20contactarte%20sobre..."
     title="Enviar correo"
   >
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
