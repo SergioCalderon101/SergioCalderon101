@@ -42,7 +42,7 @@
 ## ⏱️ WakaTime Stats
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=SergioCalderon117&hide_border=true&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=SergioCalderon117&hide_border=true&theme=tokyonight&v=2"
     alt="WakaTime Stats de Sergio"
   />
 </p>
