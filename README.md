@@ -1,58 +1,21 @@
-<div align="center">
+# Project Title
 
-## 👋 Hi there 
-### I’m Sergio, Junior Software Engineer | Python | SQL | AI
+Some introduction text.
 
-## 🧑‍💻 Programming Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,bash,html,css,postgres,javascript" />
-</p>
+## Contact
 
+Here is how to contact me:
 
-## ⚙️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,git,mysql,postgres" />
-  <img height="40" src="https://img.shields.io/badge/Terminal-121011?logo=gnometerminal&logoColor=white" />
-  <img height="40" src="https://img.shields.io/badge/Claude%20Code-000000?logo=anthropic&logoColor=white" />
-</p>
-
-
-## 📬 Contact Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/sergio-calderon-sanpedro/">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  <a
-    href="mailto:sergioo.calderonn@gmail.com?subject=Contacto%20desde%20GitHub&body=Hola%20Sergio%2C%0A%0AMe%20gustar%C3%ADa%20contactarte%20sobre..."
-    title="Enviar correo"
-  >
+  <a href="mailto:sergioo.calderonn@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
-</p>
 
+Some additional content.
 
+## Contributing
 
-## ⏱️ WakaTime Stats
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=SergioCalderon117&hide_border=true&theme=tokyonight&v=2"
-    alt="WakaTime Stats de Sergio"
-  />
-</p>
+Instructions for contributing.
 
+## License
 
-## 📊 GitHub Stats
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=SergioCalderon101&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight"
-    alt="GitHub Stats de Sergio"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioCalderon101&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
-    alt="Top Langs de Sergio"
-    height="165"
-  />
-</p>
-
-</div>
+License information.
