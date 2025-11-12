@@ -4,9 +4,7 @@ I´m Sergio , Junior Software Engineer | Python | SQL | AI
 ## 🧑‍💻 Programming languages
 <p align="left">
   <!-- skillicons -->
-  <img src="https://skillicons.dev/icons?i=python,java,bash,html,css,mysql,postgres" />
-  <!-- SQL genérico con shields -->
-  <img src="https://img.shields.io/badge/SQL-003B57?logo=database&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,java,bash,html,css,postgres" />
 </p>
 
 ## ⚙️ Tech Stack
