@@ -24,6 +24,15 @@ I´m Sergio , Junior Software Engineer | Python | SQL | AI
   </a>
 </p>
 
+## 📊 GitHub Stats
+<p>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=SergioCalderon101&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight"
+    alt="GitHub Stats de Sergio"
+    height="165"
+  />
+</p>
+
 
 
 <!--
