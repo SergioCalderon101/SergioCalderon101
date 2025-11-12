@@ -32,6 +32,14 @@ I´m Sergio , Junior Software Engineer | Python | SQL | AI
     height="165"
   />
 </p>
+<p>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioCalderon101&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
+    alt="Top Langs de Sergio"
+    height="165"
+  />
+</p>
+
 
 
 
