@@ -25,19 +25,17 @@
 </p>
 
 
-## ⏱️ WakaTime Stats
+## 🕒 Coding Activity
+
 <p align="center">
-<img
-  src="https://github-readme-stats.vercel.app/api/wakatime?username=SergioCalderon117
-       &hide_border=true
-       &theme=tokyonight
-       &layout=compact
-       &range=last_7_days
-       &langs_count=10
-       &hide=Other"
-  alt="WakaTime Stats de Sergio"
-/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SergioCalderon117&hide_border=true&theme=tokyonight" height="300" />
 </p>
+
+<p align="center">
+  <!-- Gráfico semanal -->
+  <img src="https://wakatime.com/share/@SergioCalderon117/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx.svg" width="600" />
+</p>
+
 
 ## 📊 GitHub Stats
 <p align="center">
