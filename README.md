@@ -1,38 +1,42 @@
-## Hi there 👋
-I´m Sergio , Junior Software Engineer | Python | SQL | AI
+<div align="center">
 
-## 🧑‍💻 Programming languages
-<p align="left">
-  <!-- skillicons -->
+## 👋 Hi there 
+### I’m Sergio, Junior Software Engineer | Python | SQL | AI
+
+---
+
+## 🧑‍💻 Programming Languages
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,bash,html,css,postgres,javascript" />
 </p>
 
+---
+
 ## ⚙️ Tech Stack
-<p align="left">
-  <!-- sin duplicados innecesarios -->
+<p align="center">
   <img src="https://skillicons.dev/icons?i=linux,git,mysql,postgres" />
-  <img src="https://img.shields.io/badge/Terminal-121011?logo=gnometerminal&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude%20Code-000000?logo=anthropic&logoColor=white" />
+  <img height="40" src="https://img.shields.io/badge/Terminal-121011?logo=gnometerminal&logoColor=white" />
+  <img height="40" src="https://img.shields.io/badge/Claude%20Code-000000?logo=anthropic&logoColor=white" />
 </p>
 
+---
 
 ## 📬 Contact Me
-
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/sergio-calderon-sanpedro/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
 </p>
 
+---
+
 ## 📊 GitHub Stats
-<p>
+<p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=SergioCalderon101&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight"
     alt="GitHub Stats de Sergio"
     height="165"
   />
-</p>
-<p>
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioCalderon101&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
     alt="Top Langs de Sergio"
@@ -40,20 +44,6 @@ I´m Sergio , Junior Software Engineer | Python | SQL | AI
   />
 </p>
 
+---
 
-
-
-<!--
-**SergioCalderon101/SergioCalderon101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
