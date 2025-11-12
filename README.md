@@ -1,6 +1,22 @@
 ## Hi there 👋
 I´m Sergio , Junior Software Engineer | Python | SQL | AI
 
+## 🧑‍💻 Programming languages
+<p align="left">
+  <!-- skillicons -->
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,bash,html,css" />
+  <!-- SQL genérico con shields -->
+  <img src="https://img.shields.io/badge/SQL-003B57?logo=database&logoColor=white" />
+</p>
+
+## ⚙️ Tech Stack
+<p align="left">
+  <!-- sin duplicados innecesarios -->
+  <img src="https://skillicons.dev/icons?i=linux,git,mysql,postgres" />
+  <img src="https://img.shields.io/badge/Terminal-121011?logo=gnometerminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude%20Code-000000?logo=anthropic&logoColor=white" />
+</p>
+
 
 ## About Me
 <!--
