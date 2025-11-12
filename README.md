@@ -22,7 +22,14 @@
   <a href="https://www.linkedin.com/in/sergio-calderon-sanpedro/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
+  <a
+    href="mailto:sergioo.calderonn@gmail.com?subject=Contacto%20desde%20GitHub&body=Hola%20Sergio,%0A%0AVi%20tu%20perfil%20de%20GitHub%20y%20me%20gustar%C3%ADa%20contactarte%20por..."
+    title="Enviar correo"
+  >
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+  </a>
 </p>
+
 
 
 ## ⏱️ WakaTime Stats
