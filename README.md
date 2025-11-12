@@ -17,11 +17,13 @@ I´m Sergio , Junior Software Engineer | Python | SQL | AI
 
 
 ## 📬 Contact Me
-<p>
-  <a href="https://www.linkedin.com/in/sergio-calderon-sanpedro/" title="LinkedIn – Sergio Calderón">
-    <img height="40" src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" />
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/sergio-calderon-sanpedro/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
 </p>
+
 
 
 <!--
