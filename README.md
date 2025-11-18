@@ -11,7 +11,7 @@
 
 ## ⚙️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,git,mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=linux,git,mysql,postgres,claude" />
   <img height="40" src="https://img.shields.io/badge/Terminal-121011?logo=gnometerminal&logoColor=white" />
   <img height="40" src="https://img.shields.io/badge/Claude%20Code-000000?logo=anthropic&logoColor=white" />
 </p>
