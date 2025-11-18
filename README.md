@@ -11,8 +11,7 @@
 
 ## ⚙️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,git,mysql,postgres,ubuntu,powershell" />
-  <img height="40" src="https://img.shields.io/badge/Claude%20Code-000000?logo=anthropic&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=linux,git,mysql,postgres,ubuntu,powershell,github,kali" />
 </p>
 
 
