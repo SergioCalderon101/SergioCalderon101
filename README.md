@@ -25,6 +25,7 @@
 
 
 ## ⏱️ WakaTime Stats
+<a href="https://wakatime.com/@3d232567-cea1-4be7-803c-81e88d4b85f9"><img src="https://wakatime.com/badge/user/3d232567-cea1-4be7-803c-81e88d4b85f9.svg" alt="Total time coded since Mar 26 2025" /></a>
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/wakatime?username=SergioCalderon117&hide_border=true&theme=tokyonight&v=2"
