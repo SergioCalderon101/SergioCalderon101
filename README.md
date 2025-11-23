@@ -11,7 +11,7 @@
 
 ## ⚙️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,git,mysql,postgres,ubuntu,powershell,github,kali,idea,vscode" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,git,github,mysql,postgres,idea,vscode,powershell" />
 </p>
 
 
