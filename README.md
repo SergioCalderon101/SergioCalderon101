@@ -5,13 +5,13 @@
 
 ## 🧑‍💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,postgres,javascript,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,postgres,javascript,html,css" />
 </p>
 
 
 ## ⚙️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,git,github,mysql,postgres,fastapi,flask,idea,vscode,powershell,windows" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,mysql,postgres,idea,vscode,powershell,windows,bash" />
 </p>
 
 
