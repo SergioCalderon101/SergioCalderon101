@@ -1,11 +1,11 @@
 <div align="center">
 
 ## 👋 Hi there 
-### I'm Sergio, Junior Software Engineer | Python | SQL | AI
+### I'm Sergio, Junior Software Engineer | Python | SQL | 
 
 ## 🧑‍💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgres,javascript,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,postgres,html,css" />
 </p>
 
 
