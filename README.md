@@ -5,7 +5,7 @@
 
 ## 🧑‍💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,bash,postgres,javascript,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,bash,postgres,javascript,html,css" />
 </p>
 
 
