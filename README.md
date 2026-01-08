@@ -7,7 +7,6 @@
 📍 Zapopan, Guadalajara, México | 🎓 Graduating June 2027
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-calderon-sanpedro/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sergioo.calderonn@gmail.com)
 [![WakaTime](https://wakatime.com/badge/user/3d232567-cea1-4be7-803c-81e88d4b85f9.svg)](https://wakatime.com/@3d232567-cea1-4be7-803c-81e88d4b85f9)
 
 </div>
@@ -16,7 +15,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Software Engineer** specializing in full-stack development with a focus on building **secure, scalable applications**. Currently pursuing Computer Systems Engineering while gaining hands-on experience through internships and real-world projects.
+I'm a passionate **Software Engineer** specializing in full-stack development with a focus on building **secure, scalable applications**. Currently pursuing Computer Systems Engineering while gaining hands-on experience in Python, Flask, and database management.
 
 - 🔭 Former IT Intern at **Comercializadora Frangrit**
 - 🌱 Building with **Python, Flask, SQL, and Cloud Technologies**
@@ -108,6 +107,8 @@ I'm a passionate **Software Engineer** specializing in full-stack development wi
 </tr>
 </table>
 
+🌐 **[View My Professional Portfolio](https://teralink.tech/index.html)**
+
 ---
 
 ## 📊 GitHub Statistics
@@ -180,11 +181,8 @@ class SergioCalderón:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-calderon-sanpedro/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SergioCalderon117)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sergioo.calderonn@gmail.com)
 
 ---
-
-### 💡 *"Building secure, scalable solutions one commit at a time"*
 
 ![](https://komarev.com/ghpvc/?username=SergioCalderon117&color=blueviolet&style=flat-square&label=Profile+Views)
 
