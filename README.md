@@ -184,6 +184,4 @@ class SergioCalderón:
 
 ---
 
-![](https://komarev.com/ghpvc/?username=SergioCalderon117&color=blueviolet&style=flat-square&label=Profile+Views)
-
 </div>
