@@ -111,16 +111,6 @@ I'm a passionate **Software Engineer** specializing in full-stack development wi
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SergioCalderon117&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioCalderon117&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 ## ⏱️ Coding Activity
 
