@@ -2,29 +2,31 @@
 
 # 👋 Hi, I'm Sergio Calderón
 
-### Software Engineer | Python Developer | Full-Stack Enthusiast
+### Software Engineer | Full-Stack Developer | AI/ML Enthusiast
 
-📍 Zapopan, Guadalajara, México | 🎓 Graduating June 2027
+📍 Zapopan, Guadalajara, México | 🎓 B.S. in Computer Systems Engineering (Expected June 2027)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-calderon-sanpedro/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SergioCalderon101)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://teralink.tech/index.html)
 [![WakaTime](https://wakatime.com/badge/user/3d232567-cea1-4be7-803c-81e88d4b85f9.svg)](https://wakatime.com/@3d232567-cea1-4be7-803c-81e88d4b85f9)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🚀 Professional Summary
 
-I'm a passionate **Software Engineer** specializing in full-stack development with a focus on building **secure, scalable applications**. Currently pursuing Computer Systems Engineering while gaining hands-on experience in Python, Flask, and database management.
+Software Engineer focused on building secure and scalable full-stack applications with Python, JavaScript, SQL, and cloud technologies. Hands-on experience delivering production-ready systems, from backend APIs and authentication hardening to real-time interfaces and data reporting. Strong foundation in software architecture, Linux environments, and AI-powered product features.
 
 - 🔭 Former IT Intern at **Comercializadora Frangrit**
-- 🌱 Building with **Python, Flask, SQL, and Cloud Technologies**
+- 🌱 Building with **Python, Django/Flask, SQL, and Cloud Technologies**
 - 💡 Passionate about **AI/ML, Cybersecurity, and Web Development**
-- ⚡ Expert in secure systems with 2FA, CSRF protection, and enterprise architecture
+- ⚡ Focused on **maintainable architecture and secure development practices**
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -32,12 +34,14 @@ I'm a passionate **Software Engineer** specializing in full-stack development wi
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### 🛠️ Frameworks & Databases
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django%20REST-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -51,6 +55,8 @@ I'm a passionate **Software Engineer** specializing in full-stack development wi
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 </div>
 
@@ -62,6 +68,18 @@ I'm a passionate **Software Engineer** specializing in full-stack development wi
 <tr>
 <td width="50%">
 
+### 📊 Data Pulse
+**Full-stack data analysis platform with ML-assisted processing**
+
+🔹 **Stack:** Django REST Framework · React · Pandas · Scikit-learn  
+🔹 **Architecture:** Versioned REST API + SPA with decoupled services  
+🔹 **Features:** Automated CSV processing · Data-type classification · Analysis recommendations  
+🔹 **Visualization:** Histograms · Scatter plots · Heatmaps · Box plots  
+🔹 **Security:** JWT auth with HttpOnly cookies
+
+</td>
+<td width="50%">
+
 ### 🎓 Record Management System
 **Full-stack academic platform with enterprise security**
 
@@ -71,6 +89,8 @@ I'm a passionate **Software Engineer** specializing in full-stack development wi
 🔹 **Features:** Responsive dashboard · Scalable design
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🤖 Synapse AI - Chatbot
@@ -82,8 +102,6 @@ I'm a passionate **Software Engineer** specializing in full-stack development wi
 🔹 **Architecture:** Clean code · Separation of concerns
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 💼 Professional Portfolio
@@ -94,6 +112,8 @@ I'm a passionate **Software Engineer** specializing in full-stack development wi
 🔹 **Features:** Continuous deployment · Responsive design
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🏢 Internal Workflows (Frangrit)
@@ -104,6 +124,9 @@ I'm a passionate **Software Engineer** specializing in full-stack development wi
 🔹 **Managed:** WordPress · cPanel · Power BI reports
 
 </td>
+<td width="50%">
+
+</td>
 </tr>
 </table>
 
@@ -111,14 +134,16 @@ I'm a passionate **Software Engineer** specializing in full-stack development wi
 
 ---
 
+## 💼 Work Experience
 
-## ⏱️ Coding Activity
+### Comercializadora Frangrit — IT Intern
+**June 2025 – September 2025 | Zapopan, Jalisco**
 
-<div align="center">
-
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=SergioCalderon117&theme=tokyonight&hide_border=true&layout=compact)](https://wakatime.com/@SergioCalderon117)
-
-</div>
+- Customized internal Odoo workflows using **Python, XML, JavaScript, and SQL** to improve process consistency and operational efficiency.
+- Built and deployed a **price-checker kiosk** and a responsive **real-time product catalog**, improving product lookup experience for both staff and customers.
+- Provided technical support and infrastructure maintenance (**PCs, printers, network cabling**) to sustain daily operations.
+- Produced operational reports in **Power BI and Excel** for better business decision-making.
+- Managed **WordPress/cPanel** environments to keep a stable and scalable web platform.
 
 ---
 
@@ -127,14 +152,15 @@ I'm a passionate **Software Engineer** specializing in full-stack development wi
 ```yaml
 Networking:  Introduction to Networks (Cisco)
 Cloud:       Microsoft Azure Fundamentals (Microsoft)
-Backend:     Fundamentos de Arquitectura de Software (Platzi)
-Database:    SQL & Database Management (Hola Mundo)
-Systems:     Linux Administration (Hola Mundo)
+Architecture: Fundamentos de Arquitectura de Software (Platzi)
+Database:    SQL (Hola Mundo)
+Systems:     Linux (Hola Mundo)
+AI:          LLM Engineering (In progress)
 ```
 
 ---
 
-## 🌟 Key Strengths
+##  Key Strengths
 
 ```python
 class SergioCalderón:
@@ -163,6 +189,13 @@ class SergioCalderón:
 
 ---
 
+## 🌍 Languages
+
+- Spanish: Native
+- English: B1+
+
+---
+
 <div align="center">
 
 ## 📫 Let's Connect!
@@ -171,6 +204,7 @@ class SergioCalderón:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-calderon-sanpedro/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SergioCalderon101)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://teralink.tech/index.html)
 
 ---
 
